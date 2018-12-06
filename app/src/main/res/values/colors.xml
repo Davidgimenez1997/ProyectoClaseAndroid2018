@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#3F51B5</color>
+    <color name="green_light">#3ebe78</color>
+    <color name="green_dark">#0c592f</color>
+    <color name="black">#000000</color>
+    <color name="background_layaout">#54ace4</color>
+    <color name="white_letter">#ffffff</color>
+    <color name="disable_button">#707B7C</color>
+    <color name ="backgroung_screen">#02175d</color>
+    <color name="item_checked">#ecf0f1</color>
+    <color name="button_selected">#63110b</color>
+    <color name="backgroud_login">#405788</color>
+    <color name="backgroud_login2">#cccccc</color>
+</resources>

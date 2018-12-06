@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Utad</string>
+    <string name="str_login">Login</string>
+    <string name="str_email">e-mail</string>
+    <string name="str_password">password</string>
+    <string name="str_name">Name</string>
+    <string name="str_surname">Surname</string>
+    <string name="str_surname2">Second Surname</string>
+    <string name="str_birthday">Birthday</string>
+    <string name="str_address">Address</string>
+    <string name="str_postal_code">Postal code</string>
+    <string name="str_city">City</string>
+    <string name="str_phone">Phone</string>
+    <string name="str_btn_save">OK</string>
+    <string name="str_btn_next">-></string>
+    <string name="str_description">Description</string>
+    <string name="str_male">Male</string>
+    <string name="str_female">Female</string>
+    <string name="str_hobbies">Hobbies</string>
+    <string name="str_java">Java</string>
+    <string name="str_c">C</string>
+    <string name="str_c_mas">C++</string>
+    <string name="str_select_date">select date</string>
+    <string name="btn_skip">skip</string>
+    <string name="str_age">age</string>
+    <string name="str_btn_map">map</string>
+    <string name="str_contact_tittle">Contact</string>
+    <string name="str_btn_contact">contact</string>
+    <string name="str_first_hobbie">hobbie1</string>
+    <string name="str_second_hobbie">hobbie2</string>
+    <string name="str_third_hobbie">hobbie3</string>
+    <string name="str_gender">Gender</string>
+    <string-array name="phoneType">
+        <item>Mobile phone</item>
+        <item>Home phone</item>
+    </string-array>
+    <string name="first_nav_name">Lessons</string>
+    <string name="two_nav_name">Notifications</string>
+    <string name="three_nav_name">Notes</string>
+    <string name="four_nav_name">Teachers</string>
+    <string name="five_nav_name">Communities</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_logout">Logout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="phone_type">Phone Type</string>
+    <string name="title_first_fragment">Lessons</string>
+    <string name="title_second_fragment">Notifications</string>
+    <string name="title_three_fragment">Notes</string>
+    <string name="title_four_fragment">Teachers</string>
+    <string name="title_five_fragment">Communities</string>
+    <string name="info_delete_acount">Account deleted</string>
+    <string name="err_email">incorrect e-mail</string>
+    <string name="err_password">password must have 6 characters</string>
+    <string name="user_insert">User Saved Correctly</string>
+
+</resources>
